@@ -157,16 +157,6 @@ body{
     margin: 1rem;
 }
 
-.caixa__lista__itens__curso:hover {
-    font-size: 1.625rem;
-    color: var(--cor-primaria);
-    background-color: var(--cor-secundaria);
-    display: inline-block;
-    border-radius: 1.5rem;
-    padding: 0.25rem;
-    transition:0.75s
-}
-
 .caixa__lista__itens__direita {
     font-family: var(--fonte-primaria);
     font-size: 1.625rem;
